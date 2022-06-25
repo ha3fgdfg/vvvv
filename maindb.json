@@ -1,0 +1,1443 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "827ccb0eea8a706c4c34a16891f84e7b",
+    "loginToken": "86a4013d9ea37e3ade940417617d3585",
+    "logs": [
+      {
+        "time": "2022-06-12T14:55:53.135Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:05:35.704Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:06:39.089Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:07:15.300Z",
+        "type": "INFO",
+        "message": "2b9669917a4398c2 Connected"
+      },
+      {
+        "time": "2022-06-12T15:07:25.343Z",
+        "type": "INFO",
+        "message": "2b9669917a4398c2 Disconnected"
+      },
+      {
+        "time": "2022-06-12T15:07:26.386Z",
+        "type": "INFO",
+        "message": "2b9669917a4398c2 Connected"
+      },
+      {
+        "time": "2022-06-12T15:07:33.620Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 2b9669917a4398c2"
+      },
+      {
+        "time": "2022-06-12T15:07:33.625Z",
+        "type": "ERROR",
+        "message": "2b9669917a4398c2 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-06-12T15:07:33.626Z",
+        "type": "ERROR",
+        "message": "2b9669917a4398c2 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-06-12T15:07:44.706Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2b9669917a4398c2"
+      },
+      {
+        "time": "2022-06-12T15:07:44.712Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-12T15:07:59.259Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 2b9669917a4398c2"
+      },
+      {
+        "time": "2022-06-12T15:13:12.590Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:15:00.811Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2b9669917a4398c2"
+      },
+      {
+        "time": "2022-06-12T15:15:02.201Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2b9669917a4398c2"
+      },
+      {
+        "time": "2022-06-12T15:15:02.205Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-12T15:15:06.331Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2b9669917a4398c2"
+      },
+      {
+        "time": "2022-06-12T15:15:06.335Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-12T15:15:10.547Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 2b9669917a4398c2"
+      },
+      {
+        "time": "2022-06-12T15:15:10.552Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-12T15:16:54.428Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:20:55.886Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:22:04.547Z",
+        "type": "INFO",
+        "message": "2b9669917a4398c2 ClipBoard Recieved"
+      },
+      {
+        "time": "2022-06-12T15:22:34.357Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:22:46.343Z",
+        "type": "INFO",
+        "message": "2b9669917a4398c2 Disconnected"
+      },
+      {
+        "time": "2022-06-12T15:25:46.546Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:36:26.327Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:51:23.250Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:58:48.011Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T15:59:04.831Z",
+        "type": "INFO",
+        "message": "66261844018f552c Connected"
+      },
+      {
+        "time": "2022-06-12T15:59:11.363Z",
+        "type": "INFO",
+        "message": "66261844018f552c Disconnected"
+      },
+      {
+        "time": "2022-06-12T15:59:12.487Z",
+        "type": "INFO",
+        "message": "66261844018f552c Connected"
+      },
+      {
+        "time": "2022-06-12T16:00:11.095Z",
+        "type": "INFO",
+        "message": "66261844018f552c ClipBoard Recieved"
+      },
+      {
+        "time": "2022-06-12T16:00:11.518Z",
+        "type": "INFO",
+        "message": "66261844018f552c Notification Recieved"
+      },
+      {
+        "time": "2022-06-12T16:02:10.087Z",
+        "type": "INFO",
+        "message": "66261844018f552c Disconnected"
+      },
+      {
+        "time": "2022-06-12T18:07:46.266Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-12T18:11:10.234Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-13T04:36:27.835Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-13T04:38:28.967Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-13T04:44:27.481Z",
+        "type": "INFO",
+        "message": "bf59d5f16e088da3 Connected"
+      },
+      {
+        "time": "2022-06-13T04:47:27.550Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From bf59d5f16e088da3"
+      },
+      {
+        "time": "2022-06-13T04:47:34.165Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From bf59d5f16e088da3"
+      },
+      {
+        "time": "2022-06-13T04:47:34.279Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T04:48:35.490Z",
+        "type": "INFO",
+        "message": "bf59d5f16e088da3 ClipBoard Recieved"
+      },
+      {
+        "time": "2022-06-13T04:50:56.434Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Connected"
+      },
+      {
+        "time": "2022-06-13T04:51:37.544Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From dc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T04:52:20.079Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From dc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T04:52:20.447Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T04:52:26.183Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From dc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T04:52:26.551Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T04:52:28.422Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From dc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T04:52:28.824Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T04:52:33.253Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From dc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T04:52:36.894Z",
+        "type": "SUCCESS",
+        "message": "dc12412428dffb11 Contacts Updated - 31 New Contacts Added"
+      },
+      {
+        "time": "2022-06-13T04:52:53.878Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From dc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T04:52:58.500Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From dc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T04:53:03.661Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From dc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T04:53:15.409Z",
+        "type": "INFO",
+        "message": "Recieving sound1941677713850402318.mp3 from dc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T04:53:17.542Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From dc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T04:53:21.198Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From dc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T04:53:39.228Z",
+        "type": "SUCCESS",
+        "message": "dc12412428dffb11 Apps Updated"
+      },
+      {
+        "time": "2022-06-13T04:53:50.549Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From dc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T04:53:50.831Z",
+        "type": "SUCCESS",
+        "message": "dc12412428dffb11 SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2022-06-13T04:54:08.573Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From dc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T04:54:29.807Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From dc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T04:54:30.151Z",
+        "type": "SUCCESS",
+        "message": "dc12412428dffb11 Permissions Updated"
+      },
+      {
+        "time": "2022-06-13T04:55:00.161Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Disconnected"
+      },
+      {
+        "time": "2022-06-13T04:55:32.100Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Connected"
+      },
+      {
+        "time": "2022-06-13T04:55:32.100Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Running Queued Commands"
+      },
+      {
+        "time": "2022-06-13T04:55:32.101Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From dc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T04:55:32.701Z",
+        "type": "SUCCESS",
+        "message": "dc12412428dffb11 Call Log Updated - 10 New Calls"
+      },
+      {
+        "time": "2022-06-13T04:56:03.773Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Disconnected"
+      },
+      {
+        "time": "2022-06-13T04:59:12.621Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Connected"
+      },
+      {
+        "time": "2022-06-13T05:01:23.519Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Disconnected"
+      },
+      {
+        "time": "2022-06-13T05:01:30.972Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Connected"
+      },
+      {
+        "time": "2022-06-13T05:01:37.377Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From dc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T05:01:37.500Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T05:01:41.350Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From dc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T05:01:41.600Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T05:01:46.719Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From dc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T05:01:47.707Z",
+        "type": "INFO",
+        "message": "Recieving File Fromdc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T05:01:47.709Z",
+        "type": "SUCCESS",
+        "message": "File Fromdc12412428dffb11 Saved"
+      },
+      {
+        "time": "2022-06-13T05:02:26.863Z",
+        "type": "INFO",
+        "message": "bf59d5f16e088da3 Disconnected"
+      },
+      {
+        "time": "2022-06-13T05:02:51.559Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Disconnected"
+      },
+      {
+        "time": "2022-06-13T05:03:03.254Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Connected"
+      },
+      {
+        "time": "2022-06-13T05:05:39.509Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Disconnected"
+      },
+      {
+        "time": "2022-06-13T05:17:46.404Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Connected"
+      },
+      {
+        "time": "2022-06-13T05:17:46.404Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Running Queued Commands"
+      },
+      {
+        "time": "2022-06-13T05:17:46.405Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From dc12412428dffb11"
+      },
+      {
+        "time": "2022-06-13T05:19:06.788Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Disconnected"
+      },
+      {
+        "time": "2022-06-13T05:19:24.358Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Connected"
+      },
+      {
+        "time": "2022-06-13T05:20:44.695Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Disconnected"
+      },
+      {
+        "time": "2022-06-13T05:20:58.167Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Connected"
+      },
+      {
+        "time": "2022-06-13T05:21:28.827Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Disconnected"
+      },
+      {
+        "time": "2022-06-13T05:25:06.989Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Connected"
+      },
+      {
+        "time": "2022-06-13T05:26:53.698Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Disconnected"
+      },
+      {
+        "time": "2022-06-13T05:37:34.082Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Connected"
+      },
+      {
+        "time": "2022-06-13T05:40:10.415Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Disconnected"
+      },
+      {
+        "time": "2022-06-13T05:40:22.386Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Connected"
+      },
+      {
+        "time": "2022-06-13T05:40:53.246Z",
+        "type": "INFO",
+        "message": "dc12412428dffb11 Disconnected"
+      },
+      {
+        "time": "2022-06-13T09:51:24.057Z",
+        "type": "INFO",
+        "message": "b073ed97b74957f2 Connected"
+      },
+      {
+        "time": "2022-06-13T09:52:18.681Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Connected"
+      },
+      {
+        "time": "2022-06-13T09:52:18.908Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Notification Recieved"
+      },
+      {
+        "time": "2022-06-13T09:52:19.384Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Notification Recieved"
+      },
+      {
+        "time": "2022-06-13T09:52:19.386Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Notification Recieved"
+      },
+      {
+        "time": "2022-06-13T09:52:19.387Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Notification Recieved"
+      },
+      {
+        "time": "2022-06-13T09:52:19.387Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Notification Recieved"
+      },
+      {
+        "time": "2022-06-13T09:52:19.388Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Notification Recieved"
+      },
+      {
+        "time": "2022-06-13T09:52:49.513Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Disconnected"
+      },
+      {
+        "time": "2022-06-13T09:53:44.928Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T09:53:45.084Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T09:53:57.493Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T09:53:57.618Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T09:54:00.660Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T09:54:00.803Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T09:54:34.479Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T09:54:34.614Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T09:55:03.822Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T09:55:03.959Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T09:55:07.759Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T09:55:10.512Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Connected"
+      },
+      {
+        "time": "2022-06-13T09:55:11.445Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T09:55:11.575Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T09:55:21.526Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T09:55:26.845Z",
+        "type": "INFO",
+        "message": "b073ed97b74957f2 Disconnected"
+      },
+      {
+        "time": "2022-06-13T09:55:38.266Z",
+        "type": "INFO",
+        "message": "b073ed97b74957f2 Connected"
+      },
+      {
+        "time": "2022-06-13T09:55:38.266Z",
+        "type": "INFO",
+        "message": "b073ed97b74957f2 Running Queued Commands"
+      },
+      {
+        "time": "2022-06-13T09:55:38.267Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T09:55:41.115Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Disconnected"
+      },
+      {
+        "time": "2022-06-13T09:55:41.240Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T09:55:54.453Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T09:55:55.793Z",
+        "type": "SUCCESS",
+        "message": "b073ed97b74957f2 Apps Updated"
+      },
+      {
+        "time": "2022-06-13T09:55:58.949Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T09:55:59.245Z",
+        "type": "SUCCESS",
+        "message": "b073ed97b74957f2 Apps Updated"
+      },
+      {
+        "time": "2022-06-13T09:56:14.142Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T09:56:17.117Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T09:58:54.493Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T09:58:56.884Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T09:58:58.186Z",
+        "type": "INFO",
+        "message": "Recieving File Fromb073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T09:58:58.202Z",
+        "type": "SUCCESS",
+        "message": "File Fromb073ed97b74957f2 Saved"
+      },
+      {
+        "time": "2022-06-13T09:58:58.700Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T09:59:09.884Z",
+        "type": "INFO",
+        "message": "b073ed97b74957f2 Disconnected"
+      },
+      {
+        "time": "2022-06-13T09:59:11.423Z",
+        "type": "INFO",
+        "message": "b073ed97b74957f2 Connected"
+      },
+      {
+        "time": "2022-06-13T09:59:57.890Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Connected"
+      },
+      {
+        "time": "2022-06-13T09:59:57.891Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Running Queued Commands"
+      },
+      {
+        "time": "2022-06-13T09:59:57.894Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T09:59:58.557Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T10:00:28.791Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Disconnected"
+      },
+      {
+        "time": "2022-06-13T10:01:00.334Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Connected"
+      },
+      {
+        "time": "2022-06-13T10:01:00.335Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Running Queued Commands"
+      },
+      {
+        "time": "2022-06-13T10:01:00.335Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T10:01:00.692Z",
+        "type": "SUCCESS",
+        "message": "d5bdbee1cf1c0941 Permissions Updated"
+      },
+      {
+        "time": "2022-06-13T10:01:30.907Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Disconnected"
+      },
+      {
+        "time": "2022-06-13T10:06:05.357Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Connected"
+      },
+      {
+        "time": "2022-06-13T10:07:04.966Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Disconnected"
+      },
+      {
+        "time": "2022-06-13T11:48:25.334Z",
+        "type": "INFO",
+        "message": "b073ed97b74957f2 Connected"
+      },
+      {
+        "time": "2022-06-13T11:48:25.335Z",
+        "type": "INFO",
+        "message": "b073ed97b74957f2 Running Queued Commands"
+      },
+      {
+        "time": "2022-06-13T11:48:25.335Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T11:48:26.171Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T11:48:31.269Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T11:48:31.512Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T11:48:33.309Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T11:48:33.529Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T14:04:31.624Z",
+        "type": "INFO",
+        "message": "b073ed97b74957f2 Connected"
+      },
+      {
+        "time": "2022-06-13T14:04:31.625Z",
+        "type": "INFO",
+        "message": "b073ed97b74957f2 Running Queued Commands"
+      },
+      {
+        "time": "2022-06-13T14:04:31.626Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T14:04:32.075Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T14:06:51.695Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Connected"
+      },
+      {
+        "time": "2022-06-13T14:07:51.559Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Disconnected"
+      },
+      {
+        "time": "2022-06-13T14:10:56.115Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-06-13T14:12:41.913Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Connected"
+      },
+      {
+        "time": "2022-06-13T14:13:13.172Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Disconnected"
+      },
+      {
+        "time": "2022-06-13T14:13:35.479Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Connected"
+      },
+      {
+        "time": "2022-06-13T14:15:11.891Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:15:12.176Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T14:15:15.585Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:15:15.709Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T14:15:18.441Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:16:56.202Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:17:06.899Z",
+        "type": "INFO",
+        "message": "Recieving sound1913803130.mp3 from d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:17:41.213Z",
+        "type": "INFO",
+        "message": "bf59d5f16e088da3 Connected"
+      },
+      {
+        "time": "2022-06-13T14:18:26.730Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:18:35.905Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:18:40.098Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:18:40.347Z",
+        "type": "SUCCESS",
+        "message": "d5bdbee1cf1c0941 Call Log Updated - 33 New Calls"
+      },
+      {
+        "time": "2022-06-13T14:18:51.042Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:18:51.329Z",
+        "type": "SUCCESS",
+        "message": "d5bdbee1cf1c0941 SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2022-06-13T14:18:58.289Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:18:58.481Z",
+        "type": "SUCCESS",
+        "message": "d5bdbee1cf1c0941 WiFi Updated - 2 New WiFi Hotspots Found"
+      },
+      {
+        "time": "2022-06-13T14:19:09.017Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:19:10.945Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:19:13.076Z",
+        "type": "SUCCESS",
+        "message": "d5bdbee1cf1c0941 Apps Updated"
+      },
+      {
+        "time": "2022-06-13T14:19:13.188Z",
+        "type": "SUCCESS",
+        "message": "d5bdbee1cf1c0941 Apps Updated"
+      },
+      {
+        "time": "2022-06-13T14:19:13.833Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:19:13.943Z",
+        "type": "SUCCESS",
+        "message": "d5bdbee1cf1c0941 Permissions Updated"
+      },
+      {
+        "time": "2022-06-13T14:19:45.754Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T14:19:47.106Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T14:19:47.230Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T14:19:52.825Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T14:21:48.572Z",
+        "type": "INFO",
+        "message": "Recieving sound176139694.mp3 from d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:29:18.651Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:29:39.332Z",
+        "type": "INFO",
+        "message": "Recieving sound357306850.mp3 from d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:30:36.225Z",
+        "type": "INFO",
+        "message": "5fed4010afd4e906 Connected"
+      },
+      {
+        "time": "2022-06-13T14:30:37.473Z",
+        "type": "INFO",
+        "message": "5fed4010afd4e906 Disconnected"
+      },
+      {
+        "time": "2022-06-13T14:35:57.827Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:36:30.851Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:36:42.010Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:37:32.678Z",
+        "type": "INFO",
+        "message": "Recieving sound1552064173.mp3 from d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:37:42.015Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Disconnected"
+      },
+      {
+        "time": "2022-06-13T14:38:23.809Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 Connected"
+      },
+      {
+        "time": "2022-06-13T14:40:33.148Z",
+        "type": "INFO",
+        "message": "bf59d5f16e088da3 ClipBoard Recieved"
+      },
+      {
+        "time": "2022-06-13T14:41:32.802Z",
+        "type": "INFO",
+        "message": "bf59d5f16e088da3 Disconnected"
+      },
+      {
+        "time": "2022-06-13T14:44:55.052Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:44:55.322Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T14:44:57.082Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:44:57.205Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T14:45:49.628Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:45:54.803Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:45:55.915Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:47:01.788Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:48:41.843Z",
+        "type": "INFO",
+        "message": "Recieving sound949456588.mp3 from d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:52:48.524Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T14:52:48.653Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T14:52:51.203Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T14:52:51.327Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T14:52:57.644Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T14:52:57.770Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T14:52:59.835Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T14:52:59.957Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T14:53:01.483Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T14:53:01.615Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T14:53:06.349Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T14:53:06.472Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T14:53:08.220Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T14:53:08.358Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-06-13T14:53:12.348Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T14:53:14.443Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T14:53:18.460Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From b073ed97b74957f2"
+      },
+      {
+        "time": "2022-06-13T14:55:30.549Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:55:34.491Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:56:05.918Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:56:16.672Z",
+        "type": "INFO",
+        "message": "Recieving sound1110293267.mp3 from d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:56:55.312Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-06-13T14:56:55.313Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From d5bdbee1cf1c0941"
+      },
+      {
+        "time": "2022-06-13T14:58:35.312Z",
+        "type": "INFO",
+        "message": "d5bdbee1cf1c0941 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-06-13T14:58:35.313Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From d5bdbee1cf1c0941"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "2b9669917a4398c2",
+      "firstSeen": "2022-06-12T15:07:15.290Z",
+      "lastSeen": "2022-06-12T15:22:46.343Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.0.105",
+        "clientGeo": {},
+        "device": {
+          "model": "SM-A805N",
+          "manufacture": "samsung",
+          "version": "7.1.2"
+        }
+      }
+    },
+    {
+      "clientID": "66261844018f552c",
+      "firstSeen": "2022-06-12T15:59:04.824Z",
+      "lastSeen": "2022-06-12T16:02:10.088Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "194.28.65.138",
+        "clientGeo": {
+          "range": [
+            3256631296,
+            3256632319
+          ],
+          "country": "UA",
+          "region": "63",
+          "eu": "0",
+          "timezone": "Europe/Kiev",
+          "city": "Kharkiv",
+          "ll": [
+            49.9808,
+            36.2527
+          ],
+          "metro": 0,
+          "area": 100
+        },
+        "device": {
+          "model": "ASUS_Z01QD",
+          "manufacture": "asus",
+          "version": "7.1.2"
+        }
+      }
+    },
+    {
+      "clientID": "bf59d5f16e088da3",
+      "firstSeen": "2022-06-13T04:44:27.403Z",
+      "lastSeen": "2022-06-13T14:41:32.802Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "194.28.65.150",
+        "clientGeo": {
+          "range": [
+            3256631296,
+            3256632319
+          ],
+          "country": "UA",
+          "region": "63",
+          "eu": "0",
+          "timezone": "Europe/Kiev",
+          "city": "Kharkiv",
+          "ll": [
+            49.9808,
+            36.2527
+          ],
+          "metro": 0,
+          "area": 100
+        },
+        "device": {
+          "model": "SM-G9880",
+          "manufacture": "samsung",
+          "version": "7.1.2"
+        }
+      }
+    },
+    {
+      "clientID": "dc12412428dffb11",
+      "firstSeen": "2022-06-13T04:50:56.427Z",
+      "lastSeen": "2022-06-13T05:40:53.247Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "194.28.65.189",
+        "clientGeo": {
+          "range": [
+            3256631296,
+            3256632319
+          ],
+          "country": "UA",
+          "region": "63",
+          "eu": "0",
+          "timezone": "Europe/Kiev",
+          "city": "Kharkiv",
+          "ll": [
+            49.9808,
+            36.2527
+          ],
+          "metro": 0,
+          "area": 100
+        },
+        "device": {
+          "model": "M2006C3LG",
+          "manufacture": "Xiaomi",
+          "version": "10"
+        }
+      }
+    },
+    {
+      "clientID": "b073ed97b74957f2",
+      "firstSeen": "2022-06-13T09:51:24.020Z",
+      "lastSeen": "2022-06-13T14:04:31.623Z",
+      "isOnline": true,
+      "dynamicData": {
+        "clientIP": "194.28.65.145",
+        "clientGeo": {
+          "range": [
+            3256631296,
+            3256632319
+          ],
+          "country": "UA",
+          "region": "63",
+          "eu": "0",
+          "timezone": "Europe/Kiev",
+          "city": "Kharkiv",
+          "ll": [
+            49.9808,
+            36.2527
+          ],
+          "metro": 0,
+          "area": 100
+        },
+        "device": {
+          "model": "HK1 Max",
+          "manufacture": "rockchip",
+          "version": "10"
+        }
+      }
+    },
+    {
+      "clientID": "d5bdbee1cf1c0941",
+      "firstSeen": "2022-06-13T09:52:18.676Z",
+      "lastSeen": "2022-06-13T14:38:23.809Z",
+      "isOnline": true,
+      "dynamicData": {
+        "clientIP": "194.28.65.145",
+        "clientGeo": {
+          "range": [
+            3256631296,
+            3256632319
+          ],
+          "country": "UA",
+          "region": "63",
+          "eu": "0",
+          "timezone": "Europe/Kiev",
+          "city": "Kharkiv",
+          "ll": [
+            49.9808,
+            36.2527
+          ],
+          "metro": 0,
+          "area": 100
+        },
+        "device": {
+          "model": "P781",
+          "manufacture": "alps",
+          "version": "7.0"
+        }
+      }
+    },
+    {
+      "clientID": "5fed4010afd4e906",
+      "firstSeen": "2022-06-13T14:30:36.219Z",
+      "lastSeen": "2022-06-13T14:30:37.474Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "194.28.65.150",
+        "clientGeo": {
+          "range": [
+            3256631296,
+            3256632319
+          ],
+          "country": "UA",
+          "region": "63",
+          "eu": "0",
+          "timezone": "Europe/Kiev",
+          "city": "Kharkiv",
+          "ll": [
+            49.9808,
+            36.2527
+          ],
+          "metro": 0,
+          "area": 100
+        },
+        "device": {
+          "model": "Redmi 7A",
+          "manufacture": "Xiaomi",
+          "version": "10"
+        }
+      }
+    }
+  ]
+}
